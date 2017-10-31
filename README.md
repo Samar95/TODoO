@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Symfony Standard Edition
 ========================
 
@@ -67,3 +68,7 @@ Enjoy!
 [11]: https://symfony.com/doc/3.1/logging.html
 [12]: https://symfony.com/doc/3.1/assetic/asset_management.html
 [13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
+=======
+# TODoO
+The brand new TODO app
+>>>>>>> 575d2da95b11bc3548c9f2598561506ecf3c861e
