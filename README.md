@@ -1,74 +1,19 @@
-<<<<<<< HEAD
-Symfony Standard Edition
-========================
+# Todooo
+Todoo is a web app that help you to better plan your tasks and have a well organised dashboard that shows you all your ToDo list.
 
-Welcome to the Symfony Standard Edition - a fully-functional Symfony
-application that you can use as the skeleton for your new applications.
+# Features
+With this app you could :
+- Create an account to access you ToDo list from any device, securely. 
+- Add your tasks and organise your plan
+- Share your ToDo list with your collaborators 
+- Receive a notification to remind you of your tasks 
 
-For details on how to download and get started with Symfony, see the
-[Installation][1] chapter of the Symfony Documentation.
+New features will be released as soon as it get ready. 
 
-What's inside?
---------------
+# Developer
+This project is developed by [Samar Ben Ismail](https://www.linkedin.com/in/samar-ben-ismail-56bb69142/).
 
-The Symfony Standard Edition is configured with the following defaults:
+# Feeback
+If you want to suggest or complain any feature or bug that the app could have , I will be glad to hear from you. Please contact me via email at any time : samar.benismail@esprit.tn 
 
-  * An AppBundle you can use to start coding;
 
-  * Twig as the only configured template engine;
-
-  * Doctrine ORM/DBAL;
-
-  * Swiftmailer;
-
-  * Annotations enabled for everything.
-
-It comes pre-configured with the following bundles:
-
-  * **FrameworkBundle** - The core Symfony framework bundle
-
-  * [**SensioFrameworkExtraBundle**][6] - Adds several enhancements, including
-    template and routing annotation capability
-
-  * [**DoctrineBundle**][7] - Adds support for the Doctrine ORM
-
-  * [**TwigBundle**][8] - Adds support for the Twig templating engine
-
-  * [**SecurityBundle**][9] - Adds security by integrating Symfony's security
-    component
-
-  * [**SwiftmailerBundle**][10] - Adds support for Swiftmailer, a library for
-    sending emails
-
-  * [**MonologBundle**][11] - Adds support for Monolog, a logging library
-
-  * **WebProfilerBundle** (in dev/test env) - Adds profiling functionality and
-    the web debug toolbar
-
-  * **SensioDistributionBundle** (in dev/test env) - Adds functionality for
-    configuring and working with Symfony distributions
-
-  * [**SensioGeneratorBundle**][13] (in dev/test env) - Adds code generation
-    capabilities
-
-  * **DebugBundle** (in dev/test env) - Adds Debug and VarDumper component
-    integration
-
-All libraries and bundles included in the Symfony Standard Edition are
-released under the MIT or BSD license.
-
-Enjoy!
-
-[1]:  https://symfony.com/doc/3.1/setup.html
-[6]:  https://symfony.com/doc/current/bundles/SensioFrameworkExtraBundle/index.html
-[7]:  https://symfony.com/doc/3.1/doctrine.html
-[8]:  https://symfony.com/doc/3.1/templating.html
-[9]:  https://symfony.com/doc/3.1/security.html
-[10]: https://symfony.com/doc/3.1/email.html
-[11]: https://symfony.com/doc/3.1/logging.html
-[12]: https://symfony.com/doc/3.1/assetic/asset_management.html
-[13]: https://symfony.com/doc/current/bundles/SensioGeneratorBundle/index.html
-=======
-# TODoO
-The brand new TODO app
->>>>>>> 575d2da95b11bc3548c9f2598561506ecf3c861e
